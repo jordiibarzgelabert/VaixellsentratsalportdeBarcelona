@@ -1,0 +1,6 @@
+Para ser portero es indispensable ser español, mayor de 20 años, y saber leer y escribir. ulae, Ambos cargos serán voluntarios, escepto el caso en que no hubiere quien los aceptara, y el Juez de paz quisiese nombrar respectivamente à los Secretarios y alguaciles del municipio. Art. 11. Los Secretarios y porteros de los juzgados de paz percibirán los derechos establecidos en los Aranceles vigentes, ó los que se establezcan en lo sucesivo para los actos en que funcionan como tales.
+model Secret
+Los gastos que ocasione el desempeño de la  Secretaría serán de cuenta del Secretario.
+cuenta Secretario.
+Art. 12. Los Secretarios son responsables de la conservacion de los libros en que se asienten los actos de conciliacion, de los demas registros que deba llevar el juzgado, y de las actuaciones, correspondencia y otros papeles que al mismo pertenezcan y deban archivarse. Art. 13. Al fin de cada bienio deberán hacer entrega de dichos libros en los juzgados de primera instancia, recogiendo resguardo, sin el cual no podrán eximirse de la responsabilidad decretada en el artículo anterior.
+Aluprol ne bunde 

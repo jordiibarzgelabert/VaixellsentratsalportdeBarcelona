@@ -1,0 +1,11 @@
+SANIDAD DEL PUERTO.
+Embarcaciones entradas en el puerto en el dia de ayer
+Mercantes españolas.
+De Coruña, Cádiz, Málaga, Santa Pola, Valencia y Tarragona en 62 d. polacra goleta Feliz, de 70 t., c. D. Ramon Soto y David, con 70 cascos sardina à D. J. Serra y Totosaus, 10 de parrocha á D. Isidro Moreu, y 8 barriles crémor á D. Juan Pou.
+De Moguer, Cádiz, Málaga, Almería, Cartagena y Tarragona en 53 d. laad Tres Amigos, de 39 t., p. Antonio Miravent, con 822 fanegas habas, de su cuenta.
+De Palma en 17 horas vapor Mallorquin, de 65 t., c. D. José Estadé y Sabater, con 150 cajas jahon á D. Pelegrin Tintoré, 59 sacas corteza de encina á D. Gerónimo Deu, 50 de cacao á los señores Ribas y Cantallops, 36 cajas frutas y almendras á D. Mariano Flaquer é hijo, 2 fardos tela á los señores Olsina y Dauner, y 3 id. à D. Ramon Tort, la correspondencie y 35 pasajeros.
+De Valencia en 4 d., land Paulita, de 62 t., p. Bautista Sister, con 550 carneros á D. Lorenzo Coca y 138 sacos harina para Villanueva.
+De Id. en id.. laud Norma, de 28 t., p. Bautista Llopis, con 280 carneros á D. Lorenzo Coca. De Gandia y Vinaroz en 5 d., laud Rosario, de 18 t., p. Higinio Fábregas, con 60 cahices habones, 20 de habichuelas, 10 de trigo y 2 de garbanzos á D. Federico Carbó y 8 fardos flor de malva á D. J. Vidal y Ribas.
+De Alicante y Denia en 6 d., laud S. Jaime, de 31 t., p. Bartolomé Sitjá, con 700 fs. trigo. De Villa Real de San Antonio. Málaga y Denia en 37 d., laud Estrella, de 42 t., p. Francisco Timoner, con 1500 fs. trigo para Marsella.-Ha tenido entrada por Sanidad á las 2 y media de la tarde.
+De Torrablanca en 3 d., laud San Agustin, de 23 t., p. Juan Bautista Lluch, con 2200 arrobas algarrobas, para Rosas.
+add m gid h 

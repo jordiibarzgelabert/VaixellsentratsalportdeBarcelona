@@ -1,0 +1,121 @@
+Cabos, nume- en fin del en el
+Mercaderías.
+ro ó peso. mes anter. presente. Total. presente del mismo.
+Aceite de palmera.. Cascos.
+Existencia Entrada
+Salida en el en fin
+Existencia 3 3 3
+Aceite de ricino.
+Cajas.
+25 23 25
+Acero en barras.
+Cajas.
+499 499 499
+Aguardiente de caña.. Pipas.
+14 11 25
+Id. id.
+Barriles.
+14 14 14
+Id. de Ginebra..
+II.
+1 1
+Asfalto.
+Panes.
+1000 1000 1000
+Azúcar.
+Cajas.
+4198 4198 811 5387
+Id.
+Bocoyes.
+35 35 11 24
+Id.
+Barriles.
+77 77 77
+Azul de Prusia.
+Id.
+Bacalao y pezpalo. Quintales.
+#307 3307 2970.
+Cacao Caracas.
+Id. Cubano..
+Sacos.
+1066 300 1366 380 986
+Id.
+312 166 478 119 359
+Id. Carúpano.
+Sacos.
+1898 1898 302 1596
+Id. Guayaquil.
+Id. id..
+Quintales.
+6588 6588 2769 3819
+Sacos.
+30 30 30
+Café en grano.
+Id. id.
+Id.
+409 123 832 52 780
+Barriles.
+196 139 329 329
+Carne en salmuera. Barriles.
+Cuercitron.
+Dulces secos y en almib Cajas.
+Elemi.
+Goma arábiga.
+2
+Barriles.
+16 16 16 10 10 10
+Cajas.
+12 12 12
+Cofas.
+276 301 262
+Hierro colado.
+Quintales.
+555 $55 355
+Leche de tierra….
+Cajas.
+20 20 20
+Licores..
+Id.
+100 100 100
+Lozas de mármol para pavimentos..
+Id.
+146 146 136
+Madera tintórea.
+Quintales.
+3027 3027 3027
+Mana.
+Cajas.
+5
+Mármol labrado.
+Id.
+44 44
+Id. sin labrar.
+Trozos.
+4 514
+Raiz de Jalapa..
+Tercios.
+7
+Sombreros de paja. Cajas.
+16 13 3
+Tinta para escribir. . Id.
+3 3 3
+Tejidos de hilo y algodon.
+Id.
+12 12
+Tabacos torcidos.: Cajas.
+11 11 ld. Id.
+Cajas.
+53 33 39 12 8
+Id. Id.
+Barriles.
+1
+Id. en cigarrillos de papel.
+Cajas.
+Id. id.
+Barriles 1d. en picadura.
+Sacos.
+Vino,
+Cajas.
+291 8 44 1 3 291 113 146 8 8
+Barcelona 31 de diciembre de 1833.-Antonio Rodriguez.-C. M. I., José Maseras.-Está conforme Escolano.
+Parte comercial. 

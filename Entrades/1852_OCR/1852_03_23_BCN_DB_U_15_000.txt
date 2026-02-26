@@ -1,0 +1,20 @@
+1723
+Idem.............. Bultos
+Id. cajitas..... Unidades
+Vino Champagne.... Canastas 332 313
+Id.......
+189 456 645
+Cajoncitos 5 5 5
+Id, picadura
+Barriles 52 52
+Sacos 13 39
+Id. id.....
+Garrafa 11
+Id...
+11 11 1 1 1
+Id. id.
+Barriles 125 125 125
+Id. id......
+1 2 2 1 1
+Caja 1
+Yerbas medicinales. Balas 33 33 33 23 23 23 

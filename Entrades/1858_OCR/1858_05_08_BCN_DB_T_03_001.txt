@@ -1,0 +1,142 @@
+ཊྚ
+Salida en Existencia
+Existencia Entrada
+Cabos, num. en fin del en el Tolal el pre- en fin 6 pesos. mes ant. presente.
+sente. del mismo.
+Mercaderías.
+-100 100 100 213 381 599 231
+Aguardiente de caña. . Pipas
+Aceite de comer.
+Cajas.
+ཙྪཱརས 363 4
+Id. de id.
+Medias.
+8 g
+Id. de id.
+Barriles.
+AL 22 39 66
+Id. comun.
+Pipas.
+27 1
+Barricas.
+1 1
+Id. cognac..
+4 3
+Barriles..
+7
+Id, de agenjos.
+2618 1510 4128 1631 2197
+Idem.
+1
+Id. ron...
+1
+Azúcar.
+Cajas.
+16 90
+Id.
+94 90
+Barriles.
+93 754 120 874 217
+Azufre.
+93 -93
+Balas 657
+Quintales.
+Bacalao y pezpalo.
+4 4 4
+Cajas.
+Bayas de yesgos.
+Cacao Caracas, Carup. y Tri. Sacos.
+Idem.
+9 9 9
+Benjuí...
+385 385 875 1031 1926 385
+Id. Guayaquil y Marañon.. Idem.
+692 507 1199 1086 -113 84 1842 57 152 191
+Cafe en grano.
+. Barriles.
+61 680 1197 1877 767 1110 95
+Id. id.
+Bocoyes.
+Id. id.
+Sacos.
+Id. id.
+37 37 37
+Tercones.
+1
+Cartelones con cuadro. Idem.
+1 1
+Cajas.
+Carey.
+8X 88
+Cera amarilla sin labrar. Serones.
+16 16 16
+Conservas alimenticias. Cajas..
+10 131 260 39 10 10
+Cueros vacuno y caballar.. Quintales.
+186 208 10
+Cajas.
+10 10
+Dulce jarabe.
+3 3
+Idem.
+3
+Estampas de papel..
+18°
+18 18
+Barriles.
+Goma arabiga..
+1293 1293
+Hierro colado.
+1299
+Lingotes.
+829
+Quintales.
+829 829
+Id. en planchas...
+Idem.
+580 380 580
+Huesos de animales.
+636636 636
+Licores:.
+Cajas.
+21
+Cestos.
+25
+Lozas de mármol para pavi. Unidades.
+Loza pedernal.
+5181 5181 5181 26 26
+Quintales.
+Marmol labrado...
+128 8000
+Sacos.
+3000
+Nitrato de sosa..
+3000 16 16
+Tercios.
+Pimienta de Tabasco.
+16 50 50 50
+Queso de Gruyera...
+Relojes de pared con sus ac.s Cajas.
+Cajitas.
+3 3 1
+Fardos.
+2
+Sombreros de paja.
+1 89 238 327 59 16 75
+Tabacos torcidas.
+21
+Cajas.
+57
+Id. id.
+Id. en cigarrillos de papel. Barriles.
+89
+Cajoncitos.
+238 2 2 2 227 227 174
+Sacos.
+Id. en picadura..
+132 40 15
+Velas estearicas.
+40
+Vino Champagne y otros.. Bultos.
+Cajas.
+15 255 235 242 13 

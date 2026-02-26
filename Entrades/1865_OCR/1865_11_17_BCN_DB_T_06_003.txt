@@ -1,0 +1,167 @@
+Cabos Existencia Entrada མ 
+ཋ 
+ལྱཱ 
+ཀླུ 
+ཋ 
+ཋ 
+ཋ 
+ཋ་
+སསཋཥ 
+ཥ 
+ཥ ཎྛཱ ཎྞཱ ཎཔྤ ཀྪཱུ 
+༡ སདྡྷིདྡྷི
+Salida Existencia.
+numero 6 en fin del en el Total. en el en fin pesos. mes anterior. presente.
+presente. del mismo.
+Mercaderias.
+50 ཧི50 50 4 Cajas.
+Aceite de comer..
+127 651 651 ཊྛ 575 • Pip. y Boc. 527
+Aguardiente de caña...
+3 3 3
+Id. de hierro hasta el n. 2. W Idem.
+. Atados.
+D
+D
+Alambre de acero.
+291 1121 127 830 23 23
+Barriles.
+23 99
+Id. id. id..
+37 37 37 . Zurrones.
+Anil. .
+1664 19748 899 18087 18843 . Cajas.
+Azucar comun 103 105 103
+B-rriles.
+la. id...
+25 25 25 -Cajas.
+"
+Id. maseabado.
+181 10 259053 259053 13065 215388 174 182
+BO Bocoyes.
+Id. id..
+ཙྪསིནྡྷནྡྷབྷནྡྷནྡྷནཾནྡྷཙནྡཏདྡྷབྷི
+Kilóg.
+Bacalao.
+461
+D 461 461
+Bultos.
+Cacao Caracas y Carupano. • Sacos.
+Borraj..
+D 1440 399 1940 1011 151 151 151
+D • Idem.
+Id. Brasileño..
+71 71 71 . Idem.
+Id. Guayaquil.
+647 647 217 400 . Idem.
+Jd. Cubeño.
+1731 4938 698 3207 4240 • Idem.
+Café en grano.
+D 611 77
+GIT 537
+Barriles.
+Id. id..
+58 58 9 49 »
+. Bocoyes.
+Id. id.
+2 2 2 9
+Cajas.
+Carey sin labrar.
+9 9 9
+D
+D • Barriles.
+Colores líquidos...
+" 4500 4500 4 Unidades. 4500
+Cueros al pelo.
+ཀྑསྶསནྡྷནཱ 3 4 1
+D . Cajas.
+Dulce...
+6 6 6 99 .
+25 . Idem.
+Estracto de castaño..
+Faroles para alumbrado de gas. Idem.
+23 23 23
+D 60290 61532 99 61532 14242
+Herramientas para artes ú oficios Palas.
+• Kilogs.
+Garbanzos.
+6698 " 6698 6698 8
+S 8
+BY Cestos.
+Id. id. id..
+2 2 »
+Cajas.
+Id. finas.
+10 10 10
+B Idem.
+Hierro colado labrado.
+1209 1209 1209
+D 27 . Atados.
+Id. en fletes.
+1 1 1 ཡནྡྷནྡྷནྡྷནྡྷམསནྡྷམྦོནྡྷཎྜཙྪཱ6 . Barricas.
+Idem fundido.
+160 160 160 "
+D
+Madera lab. en macitas de mort. Sacos . Cajas.
+Licores.
+6 6 "
+D 200 " 200 200
+Trozos.
+Id. de olivo. .
+76 231 182 155 49 . Cajas.
+Mármol en losetas.
+ཧཱ60 85 165 105 89
+Tablas.
+Id. cortado..
+12 12 2 10 . Trozos.
+Id. en bruto.
+1029 1629 1029 "
+. Unidad.
+>
+Id. en morteros.
+1 1 1 ཟ ע "
+>
+. Cajas.
+Máquina completa.
+10 10 10 9990909
+Jarros.
+Salchichones..
+88 88 88
+Sacos.
+D
+Orchilla.
+23
+D 25 25 1 16 Bultos.
+Pimienta negra.
+12 12 12 99
+A Cajas.
+Rob gandul.
+48 107 48 39
+Cajas.
+Tabacos torcidos..
+1 1 1
+B Barriles.
+Jd. id. .
+47 77 »
+>>
+Sacos.
+ཀཱནྟཏྟ3
+Id. en picadura.
+3 3 »
+Jd. en cigarrillos de papel. . Barriles.
+. Cajas.
+Id. id..
+13 13
+D 2 11 3 3 2 1
+D • Cajas.
+Jd. id.
+ཌ-2 1 1 2 . Balas.
+Tejido do lana.
+2 2 2 ,
+Cajas.
+Tubos cubiertos chapa belum. Unidad.
+Id. claro de algodon..
+180
+M 186 186 200 200 200
+Cajas.
+Vino en botellas.. 

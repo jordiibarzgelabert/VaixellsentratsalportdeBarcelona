@@ -1,0 +1,38 @@
+Albacete 0-25 d.
+Pamplona 0-25 d. Valencia 0-25 d.
+Barcelona 0-20 4.
+Guadalajara 0-25 d. Palencia 0-25 d.
+San Sebastian 0-20 d. Vitoria 0-25 d.
+Tarragon -25 d.
+Santander 0-15 d. Zamora 0-25 d..
+Salamanca 0-25 d. Valladolid -25 d.
+Córdoba 0-25 d.
+Segovia 0-25 d.
+Lugo 0-25 d.
+Alicante 0-20 d.
+Coruña 0-25 d.
+Málaga 0-20 d.
+Sevilla 0-20 d.
+Almería 0-25 d.
+Cuenca 0-30 d.
+Soria 0-30 d.
+Murcia 0-25 d.
+Gludad-Real 0-25 d. Logroño 0-25 d.
+Avila 0-35 d.
+Gerona 0-25 d.
+Orense 0-25 d.
+Badajoz 0-25 d.
+Granada 0-25 d.
+; Teruel 5 d.
+Oviedo 0-25 d.
+Toledo 0-25 0.
+Zaragoza 0-15 d.
+Bilbao 0-15 d.
+Huesca 0-25 d.
+Burgos 0-25 d.
+Jaen 0-25 d.
+Cáceres 0-25 d.
+Leon 0-25 d.
+Cádiz 0-15 d.
+Lérida 0-15 d.
+Santiago 0-15 d. 

@@ -1,0 +1,96 @@
+3005
+Carne en salmuera. Id.
+Clavillo de especie... Sacos.
+Drogas medicinales. Cajas.
+Madera ordinaria. Tablas.
+Cuercitron..
+Cueros al pelo de Carpincho.
+Id. id. de Chancho.. Id.
+Elemi.
+Goma arábiga.
+Barricas. gab 44 10 10 35 44 983 35 44 10
+Fardos.
+1 1
+Id.
+21 21 9 61
+Cajas.
+276 276
+Guillangos.
+Fardos.
+2 2
+Hierro viejo.
+Quintales.
+76 76 12 276 2 76
+Id. colado.
+Id.
+555
+Lencería de tejido llano. Cajas.
+1 1
+Licores.
+ld.
+1
+Leche de tierra..
+Cajas.
+20 20 20
+Losas de mármol para pavimentos.
+Unidades.
+123 123 ཎྞཱ 73
+Id. de tierra ordinarias.
+1500 1500
+Loza pedernal.
+Cajas.
+2 2 2 106 106 106
+Id. labrada en hormas. Bultos.
+2
+Id. tintórea..
+Quintales.
+4670 4670 90 4580
+Mármol sin labrar. Trozos.
+TOS.
+Id. id. en arquitectura. Cajas.
+52 32 52
+Id. labrado en morteQuintales.
+66 66 66 22 22
+Pasas del pals.
+Id.
+643 643 643
+Id.
+Medias.
+17 17 ང ཨདྡྷངྒེམྨནྟི  ོ17 52 1500 22
+Perfumeria..
+Botijas.
+1 1 1
+Piedra blanca para limplar mármol..
+Cajas.
+1 1
+Pieles de becerrillo al pelo.
+Fardos.
+12121 17
+Id. de gamo..
+Id.
+1d. de nutria.
+Id.
+Sombreros de paja. Cajas.
+Sulfato de quinina... Id.
+17 517 2 1 121 
+Tinta para escribir. Id.
+3
+Tabacos torcidos.
+Cajas.
+51
+Id. id.
+Cajetillas.
+371 28 399 98 88 2 3 42 311
+Id. en cigarrillos de papel.
+Cajas.
+3 3
+Id. id.
+Barricas.
+Id. en picadura.
+Sacos.
+Vinagre..
+Vino de Champagne. Cajas.
+Barriles.
+12 15 1821 6 6 6 65 17 82 82 12 12 15 15
+Barcelona 31 de marzo de 1833.-Antonio Rodriguez.-C. M. I., José Maseras.-Está conforme, Antonio Escolano.
+ABERTURAS DE REGISTRO. 

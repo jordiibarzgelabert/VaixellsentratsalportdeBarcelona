@@ -1,0 +1,67 @@
+10308
+Canela Ceilan.
+Cajas de carton con adornos. Cajas.
+Cueros de vacuno secos. . Unidades.
+Churlos.
+-11 11 11 1 1 1
+Carey...
+Id.
+1 1 1
+Cartelones con cuadro.. Id.
+8
+S 8
+Coral en rama. .
+Id.
+2 2750 2750
+Estampas de papel. . Cajas.
+Goma arábiga..
+Sacos.
+Id. id..
+Barriles
+Hierro colado
+Lingotes.
+1293
+Jabon duro.
+Cajas.
+Licores.
+Id.
+Losas marmol para pavto. Unidades 5181
+Loza porcelana.
+Cajas.
+Manteca de cerdo..
+Bultos.
+137
+Mármol labrado.
+Quintales.
+Id. sin labrar..
+. Id.
+Pimienta de varias clases. . Sacos.
+Tabacos torcidos..
+Cajas.
+Id. en cigarrillos de papel. Id.
+Id. id. id..
+Id. en picadura.
+Velas esteáricas.
+• Barriles..
+Sacos.
+ཀཙྩུབྷཱུ
+R41 ཝཏྟཱ 
+ཀྰ 
+ཤྲྰིཚོ5 1 1 10 10 ΤΟ -60 10 1293 20 250 291 5181 2 537 37 500 60 17 125 123 57 B ཎཤིདྡྷ 3 བྲཱ ཙྪཱངྒཱམྦྷཊྛནྡྷ་ྤུ 5 1 21 2750 1 1 10 10 30 1293 20 NDIX 20 291 5181 2 2 60 60 17 17 125 62 14 48 2 3 6 6 6 47 47 47
+Cajas.
+Id.
+25- 25 25 1 1
+Vidrio cristalizado.
+Barcelona 30 de noviembre de 1857.-Antonio Rodriguez.-C. M. I. José Maseras.-Está conforme, Llanos.
+Estracto del Llogd del 8 de diciembre.
+A Gravesend-Dia 7 de diciembre. Honesta, c. Andreus, de Algoa-Bay.—Mal genio, capitan Porrua, de Tarragona. Escocesa, c. Ansoleaga, de Bilbao.
+A Falmouth. Dia 7 de diciembre. Algorta, c. Arrigunaba, de la Habana.-Don Juan, capltan Abaitua, de id.
+A Cardiff. Dia 2 de diciembre. Diligente, c. Amigable, de Alicante.
+A Swansea. Dia 7 de diciemb e. Aurora, e. Arruspe, de Santander.
+A Hamburgo. Dia 2 de diciembre. Nicolás, c. Aguirre, de la Habana.
+A Londres. Dia 7 de diciembre. Juanito, c. Abaitua, de la Habana. 1
+Idem del 9.
+De Newport. Dia 5 de diciembre. Emma, e, Ford, para Barcelona.
+-A Holyhead. Dia 7 de diciembre. Seis Hermanos, capitan Garteiz, de Liverpool, para Matanzas.
+A Liverpool. Dia 8 de diciembre. Secundina, c. Albizuri, de Cárdenas.
+A Pernambuco.—Dia. Bonita, c. N., de Liverpool. 

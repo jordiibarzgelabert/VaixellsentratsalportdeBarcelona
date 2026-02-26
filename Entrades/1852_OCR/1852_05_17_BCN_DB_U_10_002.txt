@@ -1,0 +1,19 @@
+Cabos, núme- en fin del en el
+Mercaderias. ro ó peso. mes anter. presente. Total. presente. del mismo. Abaca en rama...... Balas
+Existencia Entrada
+Salida en el en fin
+Existencia 70 70 70
+Aceite de comer..... Barrica.
+T 1 d 1
+Id. id......
+Canastas 200 200 200
+Idem de palmera.... Barricas 
+f 58
+Id. para la farmacia. Frascos 58 58 1 albu 1
+Aguardiente de caña Pipas 28 109 137
+Id. id........
+Barriles 27 27 1373 27
+Id. id..
+Idem de Ginebra... Medias pipas
+Animales disecados. Bala
+Barril ad 211 142 starly 2 1 1 1 

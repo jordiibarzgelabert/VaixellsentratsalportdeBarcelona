@@ -1,0 +1,11 @@
+31,249 6.113,696 32,961 6.988,233
+Buques. Toneladas. Buques. Toneladas.
+Ingleses.
+Franceses.
+Estados Unidos.
+Otras naciones.
+SALIDOS.
+1850 1851 17,648 3.960,644 18,205 4.147,007 2,512 212,672 2,286 190,742 776 620,034 949 8,045 1.113,628 9,106 1.356,989 788,406 20,011 5.96,978 30,513 6.483,144
+Liverpool 26 de febrero.-Se han vendido hoy 8,000 balas de algodon, á precios bien sostenidos.
+-Escriben de Nueva-Orleans, fecha 7 de febrero, que han tenido noticias por el bergantin Hércules, procedente de Veracruz, de haber habido una grande tempestad en este último puerto el dia 12 de enero, la cual duró por espacio de dos dias consecutivos con igual furia. Las pérdidas de buques han sido bastante notables.
+-En Inglaterra se acaba de abrir una suscripcion por el corregimiento marítimo de Beard-of-Trade, á fin de adoptar un sistema uniforme de alumbrado de los buques para prevenir los abordages en alta mar. Los pilotos y administradores de todas las compañias de navegacion por vapor de la Gran Bretaña, han sido convocados por la comision, la cual deberá someter al parlamento el resultado de sus trabajos. 

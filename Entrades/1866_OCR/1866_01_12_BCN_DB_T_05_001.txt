@@ -1,0 +1,49 @@
+El siguiente estado demuestra los precios de los principales valores de la Bolsa de Paris en 31 de diciembre de 1864 comparados con los de igual fecha en 1865. El resultado general, como se observará, es poco favorable.
+31 DICIEMBRE 31 DICIEMBRE 1864. 1865. ALZA. BAJA.
+Fr. Cs. Fr. Cs. Fr. Cs. Fr. Cs.
+Tres por ciento..
+Cuatro y medio.
+Bonos del Tesoro.
+Banco de Francia.
+66 25 68 15 1 90 93 75 98 0 4 25 417 50 465 0 17 50 3470 0 3095 0 225 0
+Crédito territorial..
+1260 0 1325
+Banco de descuento.
+982 50 1012 50 39 0 65 0
+Crédito moviliario..
+961 25 823 75
+Sociedad general.
+575 0 607 50 32 50 LIL 50 27 50
+Moviliario español..
+612 50 470 0
+Camino de hierro de Orleans..
+870 0 842 50 137 50 142 50
+Idem del Norte..
+1007 50 1135 0 127 
+I
+Idem del Este.
+505 0 522 50 17 50
+Idem de Lion.
+890 0 848 50
+T 42 50
+Idem del Oeste..
+521 25 547 75 27 50 Idem del Mediodía..
+586 25 571 25
+Cinco por ciento italiano.
+66 45 65 42 112
+Caminos de hierro austriacos..
+442 50 436 25
+Lombardos..
+515 0 435 0 15 0 1 2112 6.25 80 0
+Victor Manuel.
+318 75 220 0 98 75
+Zaragoza.
+448 75 218 75 230 0
+Sevilla, Cádiz y Jerez.
+290 0 47 50 242 50
+Norte de España.
+373 75 172 50 201 25
+Barcelona.
+200 0 105 5 93 0
+Gas de Paris.
+1710 0 1707 50 32 50 

@@ -1,0 +1,37 @@
+Lorca 0-70 d.
+Santiago 0-20 d.
+Goruña 0-25 d.
+Segovia 0-30 d.
+Lugo 0-30 d.
+Cuenca 0-35 d.
+Málaga 0-20 d.
+Sevilla 0-20 d.
+Ferrol 0-25 d.
+Soria 0-30 d.
+Murcia 0-25 d.
+Gerona 0-25 d.
+Córdoba 0-30 d. Logroño 0-25 d.
+Orense 0-30 d.
+Tarragona 0-25 d.
+Gijon 0-25 d.
+Teruel 0-30 d.
+Toledo 0-30 d.
+Haro 0-25 d.
+Valencia 0-20 d.
+Pamplona 0-25.
+Huelva 0-25 d.
+Huesca 0-30 d.
+Reus 0-20 d.
+Vigo 0-20 d.
+Jaen 0-30 d.
+Guadalajara 0-35 d. Palencia 0-30 d.
+Leon 0-30 d.
+Lérida 0-20 d.
+Sta. Cruz Tenerife 0-35 d.
+Pontevedra 0-25 d. Valladolid 0-25 d.
+San Sebastian 0-20 d. Yamora 0-30 d.
+Santander 0-20 d. Zaragoza 0-20 d.
+1. Linares 0-25 d.
+Granada 0-30 d. Oviedo 0-25 d.
+Palina Mallorca 0-25 d. Tudela 0-65 d.
+Salamanca 0-25 d. Vitoria 0-25 d. 

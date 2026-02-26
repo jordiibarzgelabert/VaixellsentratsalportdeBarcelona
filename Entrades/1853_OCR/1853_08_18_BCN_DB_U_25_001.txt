@@ -1,0 +1,102 @@
+Relacion del movimiento de mercaderías en este depósito de puerto durante el presente mes.
+Mercaderías.
+Existencia
+Salida en el en fin
+Aceite de ricino.
+Cajas.
+25
+Id. de palmera..
+Cascos.
+3
+Acero en barras.
+Cajas.
+775 50 25 825
+Aguardiente de caña,. Pipas.
+137 137 75
+Id. de Ginebra..
+Barriles.
+Animales disecados. Balas.
+Azúcar.
+Cajas.
+5336 1247 6583 1842
+Id.
+Barriles.
+24
+Azul cenizas.
+Barriles.
+Bastones de bejucos. Rollos.
+40
+Cacao Caracas.
+Sacos.
+780
+Id. Carúpano.
+Id.
+1790 1790 476
+Id. Guayaquil.
+Quintales.
+6588 6388
+Id. Cubano..
+Sacos.
+169 doElemi.
+Café en grano.
+Id. id.
+Carne en salmuera. Id.
+Cuadros..
+Cuercitron..
+Goma arábiga.
+Grana ó Cochinilla. Sacos.
+Hierro viejo.
+Id. colado..
+Sacos.
+719
+Barriles.
+888
+Cajas.
+1
+Barricas.
+30
+Cajas.
+12
+Cofas.
+276
+Quintales.
+76
+Id.
+505
+Hoja de lata.
+Jabon duro..
+Leche de tierra..
+Cajas 99
+Id.
+159
+Cajas.
+20 ria..
+Lencería de tejidellano. Cajas.
+Lozas de tierra ordinaMadera tintórea.
+Pinturas al óleo sobre lienzo..
+Raiz de Jalapa.
+Sombreros de paja. Cajas.
+Tejidos de hilo con mezcla de algodon.
+Tinta para escribir. Cajas 1
+Unidades.
+1500
+Quintales.
+3327
+Cajas.
+Tercios.
+13
+Id.
+18 3 ཎཱ 
+ཎྜིརྐྱེནྡྲི ཙྪི 
+དྷ !i3 ཝེ ཏྟཱདྷིནཱི སྶི 
+དྡྷིམྺཱ 
+ཀཏྠ 
+སྐཏྭཱ 4761 24 40 780 294 1316 6588 169 719 307 888 29 2 30 12 276 76 99 150 180 20 1 1500 3427 13 8 12 སཱི 
+ཙྪིདྡྷཀཽཎྜཱབྷཱ2 ཨཝཎཱཉྫཱ76 ཥྛཿ 99 ནྟི 
+བྷཱུ ཀྑཱུ 
+ཨཉྙཱ13 ཎ 
+ལྱཱ ཋ 1 1 1 40 486 169 412 859 1 30 12 276 3 20 1800 3527 12 20
+Cabos, núme- en fin del en el ro ó peso. mes anter. presente. Total. presente del mismo.
+Depósito de puerto.-Mes de julio de 1833.
+ADUANA DE BARCELONA.
+Existencia Entrada 

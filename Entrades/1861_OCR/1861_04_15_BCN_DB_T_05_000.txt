@@ -1,0 +1,60 @@
+3393 200 200 " 200
+Jabon duro.
+25 13 38 13 25
+Licores.L
+Manná..
+Cajas.
+Id.
+Id.
+8 12 12 19
+Manteca de cerdo.. Barriles. A 2 2 2 D Máquinas completas. Id.
+1 1 P 1
+Metal labrado y plateado. Cajas.
+P 1 1 1
+Paja labrada en sombreros. Id.
+D 5 5
+Perfumeria.
+Id.
+P 1 1 1
+Pimienta..
+Pistolas revolvers. Cajas.
+Sacos. 360 199 360 50 310 1 1 D 1
+Plomo en perdigones.. ld.
+268 268 268 B
+Potasa.
+Id.
+1 1 T
+Queso de bola.. Id.
+fd. de Gruyera. Id.
+1 1 29 2 2 2 33
+Salmarina,
+Salchichon.
+Balotes. "
+1 1
+Cajas.
+"
+2 2
+Tabacos torcidos. Id.
+14 1 15 7 8
+Id. en picadura. Sacos. 370 370 164 706
+Id. id.
+Cajas. 11 11 D 11 id. id..
+Paquetes. 26.
+26 " 26
+Tejidos de seda en pañuelos. Cajas. 14 B 14 8 6 Id. de paja en trencilla y otros. Id...
+D 4 T 4
+Velas esteáricas. Id.
+» 1 1 1 20
+Vinagre.
+Id.
+D 3 3 מ
+Vino.
+Id.
+Zarzaparrilla.
+Tercios. 343 30 373 53 320 38 38 38 3
+Barcelona 31 de marzo de 1861.-C. M. I. José Maseras.-Antonio Rodriguez.
+Embarcaciones llegadas a este puerto desde el anochecer de ayer hasta el mediodía do nay.
+Mercantes españolas.
+De Alicante, Calpe y Tarragona en 15 d., laud Jóven Maria, de 26 t., p. José Castelló, con 400 fanegas trigo, 100 cahiees salvado, 19 pipas vino y 10 qq. esparteria á don Antonio Voltor.
+De Málaga, Alicante y Tarragona en 19 d., queche Masnou. de 102 t., c. don Antonio Rivas, con 321 qq. hierro á don Cayetano Troyano, 57 id. campeche y 20 bu.tos anchoa á don Francisco Oliver y Alsina.
+De Mahon en 15 h., vapor Menorca, de 128 t., e. don Pedro Carreras, con 100 fardos tejidos algodon a los señores Llompart y C.a, 6 cajas queso á don Francisco Trias, 50 serones higos á don Andrés Escudero, 10 bultos maquinaria y 5 baules calzado á los señores Plandolit hermanos, 2 id. id. à don Joaquin Pernau, 2 id. à don J. Cascante y Anglada, 12 id. à dou C. Taltavull, 1 id. à don Buenaventura Nohet, 19 cajas fusiles y 23 de cartuchos á la Administracion Militar, 9 baules calzado, la correspondencia y 21 pasajeros. Consgnado á don Francisco Novelle. 

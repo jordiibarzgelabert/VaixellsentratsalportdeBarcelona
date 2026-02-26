@@ -1,0 +1,80 @@
+4996
+Id. colado.
+Id. labrado.
+Id.ad
+Locetas de mármol. Unidad.
+883 t 221 1166 87 1017
+Quintales.
+555 314
+Id.
+Licores..
+Cajas.
+179 501100 299 20 538 314 179 501100 319 179 501100 319
+Libros.
+3 3 100 100 100
+Mantas de lana.
+Fardos.
+2 2
+Papel pintado.
+Cajas.
+5 5
+Pelo de liebre.
+Libras.
+16 12/25 16-12123 16 1225
+Perfumería .>
+Cajas.
+6 6
+Pianos.
+Id.
+2 2
+Píldoras y unguentos. Id.
+10 10 10
+Plumas de avestruz. ld.
+Id. id..
+Balas.
+1 1
+Rosarios con cuentas de madera.
+Cajas.
+Seda torcida.
+Libras.
+11 110 11
+Té.
+Cajas.
+4111
+Tejidos de hilo y algodon.
+Id.
+14 14 15
+Tabacos torcidos.
+Id.
+10 18 58 22
+Id. id.
+Ballos.
+2 12 1d. en cigarrillos de papel.
+Cajas.
+21
+Id. id. id.
+Barriles.
+Id. en picadura.
+Sacos.
+Id. id.
+Garrafones.
+3
+Vino tinto.
+Cajas.
+13 13 13 id. id.
+Pipas.
+20 20 20
+Id. id.
+Medias id.
+1 1d. id.
+Barriles.
+9 9.
+1d. Champagne.
+Canastas 90 90 90
+Barcelona 31 de mayo de 1855.- Antonio Rodriguez.-C. M. 1., José Maseras.-Está conforme,
+Embarcaciones llegadas hoy hasta las doce del dia.
+De guerra española.
+De Cádiz en 4 d. vapor de guerra Alerta, de 2 cañones y 62 plazas, su comandante el teniente de navío D. Eliseo Sanchez. Conduce un falucho con cargo de ropas que apresó ayer por la mañana en las aguas de Valencia, no habiéndole encontrado en dicha embarcacion gente ni documento que acredite su procedencia.
+Mercantes españolas.
+De Torreblanca en 3 d., laud Soledad, de 14 t., p. Mateo Castellà, con 1000 arrobas algarrobas à D. Federico Carbó.
+De Burriana en 3 d., laud San Vicente, de 20 t., p. Sebastian Pascual Fraile, con 1600 arrobas algarrobas à D. Federico Carbó. 

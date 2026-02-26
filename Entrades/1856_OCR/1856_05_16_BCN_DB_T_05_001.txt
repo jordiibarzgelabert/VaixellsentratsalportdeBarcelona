@@ -1,0 +1,115 @@
+Existencia Entrada
+Cabos, número en fin del en el Total. el pre- en fin
+Mercaderías.
+Acero en barras.
+Agua mineral..
+Aguardiente de caña.
+Id. id..
+Id. id. .
+Id. id...
+Id. id..
+Azúcar.
+Id..
+Bacalao y pezpalo..
+Cacao cubano..
+Id. carúpano.
+ó peso. mes ant. presente.
+Cajas.
+Salida en Existencia sente. del mismo.
+430 450 430
+Id.
+1 1 1
+Pipas.
+1103 723 1826 538 1288 .Medias pipas. 49 84 133 31 102
+Cuartanes.
+110 136 266 21 245 . Barriles.
+4 4 4 01
+Quintos.
+18 18 18 18 P
+Cajas.
+2732 4081 6833 2830 4003
+Estuches.
+2 2 2
+Quintales. 2327-88 3327-68 1080 2247'68
+Sacos.
+157 157 157 . Id.
+819 819 350 269 ཧཱུྃ
+Id. Caracas.
+Id.
+143 321 466 466
+Café en grano.
+. Sacos.
+326 0326 267 8 
+Id. id..
+Barriles.
+11 11
+Id. id..
+Carey..
+Bocoyes.
+76 76 6 70 རྞ 
+Cajas.
+4 4
+Carn en salmuera.
+Barriles.
+2
+Cimiento romano.
+Clavo de especia.
+Id.
+200 200 100 100 རྱགྶ 2
+Sacos.
+23 25
+Crémor en bruto.
+. Barricas.
+5
+Esculturas. 1.
+. Cajas.
+5 3
+Goma arábiga.
+. Cofas.
+72 72
+Id. copal.
+Cajas.
+8 8
+Licores.
+Cajas.
+46 12 58
+Pieles de becerro charoladas Id.
+1 1 1
+Pimienta sumatra.
+Id. de carnero en sucio. Fardos.
+Pildoras y unguento.
+60 60
+Sacos.
+40 40
+Cajas.
+8 8 2
+Sal de sosa cristalizada. Barriles.
+37 37
+Seda cruda hilada..
+Balas.
+4 14
+Sombreros de paja.
+Fardos.
+4 2 6 5
+Té.
+Cajas.
+21 144 165 40 123
+Tejidos de algodon de mas de 26 hilos.
+Cajas.
+Tabacos torcidos.
+. Id.
+34 24 38 2 7 ཨཚནྡ 31 2
+Id. en picadura.
+. Sacos.
+778 778 187 591 ༞ 
+སྐ 
+ག 
+ཡ 
+11 4 23 72 8 58 60 40 6 37 4 1
+Id. id.
+Garrafas.
+3 3 3
+Barcelona 3 de mayo de 1836.-Antonio Rodriguez.-C. M. I., José Maseras.-Está conforme, Llanos.
+EMBARCACIONES LLEGADAS HOY HASTA EL MEDIO DIA.
+Mercantes españolas.
+De Caspe en 6 d. laud Angel, de 35 t., p. Nicolás Roca, con 2,500 a. algarrobas á los señores Castello y compañía, 

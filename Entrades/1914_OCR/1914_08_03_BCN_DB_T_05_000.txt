@@ -1,0 +1,22 @@
+EMBARCACIONES LLEGADAS A ESTE PUERTO EL DÍA 2.
+Mercantes españolas..
+10567
+De Almería y Portman en 8 dias, bergantin-goleta Emilio, de 144 toneladas, capitan Feriche, con efectos.
+De Torrevieja en 8 dias, corbeta Virgen del Mar, de 48 toneladas, capitan Perez, con sal.
+De Rotterdam en 11 dias, vapor Arechando, de 1.400 toneladas, capitan Egusquiza, con 3.045 toneladas carbon a la orden.
+De Mahon en 12 horas, vapor correo Monte Toro, de 398 toneladas, capitan Cabot, con cargo general y 46 pasajeros.
+De Palma en 12 horas, vapor correo Miramar, de 950 toneladas, capitan Estarellas, con cargo general y 86 pasajeros.
+De Ibiza en 18 horas, vapor correo Isleño, de 314 toneladas, capitan Rigo, con cargo general y 18 pasaferos.
+De Cádiz en 30 horas, vapor Príncipe de Asturias, de 4,337 toneladas, capitan Lotina, en lastre y 11 pasajeros.
+De Rosas y escalas en 30 horas, vapor Nuevo Ampurdanés, de 172 toneladas, capitan Gelpí, con cargo general.
+De Sevilla y escalas en 12 dias, vapor San José, de 583 toneladas, capitan Pareja, con cargo general y 10 pasajeros.
+De Valencia en 18 horas. vapor Ausias March, de 628 toneladas, capitan Soler, con cargo general y 370 pasajeros.
+De Malaga y escalas en 23 horas, vapor Betis, de 737 toneladas, capitan Llorens, con cargo general y 3 pasajeros.
+De Bilbao y escalas en 30 dias, vapor Cabo San Vicente, de 1.179 toneladas, capitan Bordallo, con cargo cargo general y 1 pasajero.
+De Marsella y escalas en dias, vapor Grao, de 1.010 toneladas, capitan Regalado, con cargo general y 38 pasajeros.
+De Marsella en 24 horas, vapor Cabo Toriñana, de 789 toneladas, capitan Arrizabalaga, con cargo general y 24 pasajeros.
+Idem extranjeras.
+De Rotterdam en 8 dias, vapor griego Dimitrios Goulandris, de 2.444 toneladas, capitan Goulandris, con 5.200 toneladas carbon a la orden.
+De Kotha y escalas en 16 dias, vapor danés Wiih Colding, de 931 toneladas, capitan Bannelyske, con madora.
+De Buenos Aires y escalas en 16 dias, vapor italiano Principessa Mafalda, de 5.087 toneladas, capitan Noera, con cargo y pasaje de trànsito.
+DESPACHADAS EL 2: Para la Habana, corbeta Teresa, c. Pont, con efectos,-Para Alcudia, pailebe, San Rafael, c. Vila, con id.-Para Fernando Poo, vapor Isla de Panay, c. Perez, con id.-Para Génovat vapor italiano Principessa Mafalda, e. Noera, con id. 
