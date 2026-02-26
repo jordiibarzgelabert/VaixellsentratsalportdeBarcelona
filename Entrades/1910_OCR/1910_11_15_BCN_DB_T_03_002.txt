@@ -1,0 +1,20 @@
+Noviembre.
+Nobre./Dibre.
+Dibre./Enero.
+Enero/Fbro.
+Fbro./Marzo.
+Marzo/Abril.
+Abril/Mayo.
+Mayo/Junio.
+Junio/Julio.
+Julio/Agosto." Noviembre.
+Enero.
+Noviembre.
+Diciembre. Enero.
+Marzo.
+Mayo.
+Julio.
+Noviembre, Diciembre. Enero.
+Marzo.
+Mayo.
+Julio. 

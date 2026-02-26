@@ -1,0 +1,3 @@
+PIO
+Admite carga á flete y pasajeros para dichos puntos.
+Consignatario: Romulo Bosch y Alsina. Plaza de Antonio Lopez, núm. 15. pra 

@@ -1,0 +1,36 @@
+9834
+Distrito de Granollers.-Granollers, 2: Caldas de Montbuy, 1, y Garriga. 1 Distrito de Igualada.-Igualada, 2; Calaf, 1, y Piera, 1.
+Distrito de Manresa.-Manresa, 4, y Sallent,
+Distrito de Mataró.-Mataró, 3; Masnou, 1, y Vilasar de Mar, 1.
+Distrito de Sabadell.-Sabadell, 3, y Ripollet, 1.
+Distrito de San Feliu de Llobregat. San Feliu, 1; Esparraguera, 1; Martorell, 1, y San Baudilio, 1.
+Distrito de Tarrasa.-Tarrasa, 2, y Rubi, 1.
+Distrito de Vich.-Vich, 3; Manlleu, 1, y San Felio de Torelló, 1.
+Distrito de Villafranca del Panadés.-Villafranca, 3, y San Saturnino de Noya, 1.
+Distrito de Villanueva y Geltrú.-Villanueva y Geltrú, 2. y Sitges, 1.
+PROVINCIA DE GERONA.
+Distrito de Figueras.-Figueras, 4; Castellon de Ampurias, 1; Darnius 1, y San Lorenzo de la Muga, f.
+Distrito de Gerona.-Gerona, 4; Amer, 1; Bañolas, 1; Cassà de la Selva, 1, y La Escala, 1.
+Distrito de La Bisbal.-La Bisbal, 2; Palafrugell, 1; Palamós, 1; San Feliu de Guixols, 2, y Torroella de Montgrí, 1.
+Distrito de Olot.-Olot, 2, y Besalú, 1.
+Distrito de Puigcerdá.-Puigcerdà. 2, Camprodon 1, y Ripoll, 1.
+Distrito de Santa Coloma de Farnés. Santa Coloma, 2, Arbucias, 1; Blanes, 1; Hostalrich, 1, y Lloret de Mar, 1.
+PROVINCIA DE LÉRIDA.
+Distrito de Balaguer.-Balaguer, 3; Agramunt, 1, y Artesa de Segre, 1..
+Distrito de Cervera.-Cervera, 3; Bellpuig 1; Guisona, 1, y Tárrega, 2.
+Distrito de Lérida.-Lérida, 5; Arbeca, 1; Borjas de Urgel, 1; Granadellos, 1; Mollerusa, 1, y Serós, 1.
+"Distrito de Seo de Urgel.-Seo de Urgel, 2, y Bellver, 1. zoom
+Distrito de Solsona.-Solena, 1, y Pons, 1.
+Distrito de Sort.-Sort, 1; Esterri de Aneo, 1, y Tirvia, 1.
+Distrito de Tremp.-Tremp, 1; Pobla de Segur, y 1 Pont de Suert, 1.
+Distrito de Viella.-Viella, 1, y Bosost, 1.
+PROVINCIA DE TARRAGONA.
+Distrito de Falset.-Falset, 1; Cornudella, 1; Garcia, 1, y Tivisa, 1.
+Distrito de Gandesa.-Gandesa, 3; Horta, 1, y Mora de Ebro, 1.
+Distrito de Montblanch.-Montblanch, 1; Espluga de Francoli, 1; Santa Coloma de Queralt, 1, y Sarreal, 1.
+Istrito de Reus.-Reus, 7; Montroig, 1, y Ruidoms, 1.
+Distrito de Tarragona.-Tarragona, 5.
+Distrito de Tortosa.-Tortosa, 5; Alcanar, 1; Amposta, 1; Benifallet, 1; Cenia, 1; Ulldecona, 1, y Roquetas, 1.
+Distrito de Valls.-Valls, 4, y Alcober, 1.
+Distrito de Vendrell.-Vendrell, 1, y Torredembarra, 1.
+(Gaceta núm. 227.) 

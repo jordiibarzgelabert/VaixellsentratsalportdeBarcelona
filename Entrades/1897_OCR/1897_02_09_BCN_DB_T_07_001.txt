@@ -1,0 +1,1 @@
+Clasificacion de los entrados, por razon de su enfermedad (abstracción hecha de los orales). 

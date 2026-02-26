@@ -1,0 +1,23 @@
+y Princesa, núm. 61, principal.
+New-York.
+Café (Tipo núm. 7).
+Apertura. Cierre,
+Mayo.
+0.00 6.45
+Julio.
+0.00 6.65
+Septiembre.
+0.00 6.75
+Diciembre.
+0.00 6.85
+Sostenido.
+Hamburgo. Azúcar (Base 88 por 100)...
+Apertura. Cierre.
+Abril...
+14.52 00.00
+Mayo.
+14.52 00.00
+Agosto.
+14.02 00.00
+Octubre/Dicbre 11.45 00.00
+Sostenido. 

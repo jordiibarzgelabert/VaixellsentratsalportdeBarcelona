@@ -1,0 +1,15 @@
+1891
+DEFUNCIONES REGISTRADAS EN EL DIA DE AYER. De menos de 10 años.
+9
+De 10 años a 20.
+De 20 < 30.
+De 30 > 40.
+5
+De 40 >> 50.
+De 50 >> 60.
+De 60 70.
+De 70 80.
+De 80 90.
+De 90 >>> 100.
+34
+Total. 

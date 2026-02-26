@@ -1,0 +1,6 @@
+AVISADOR ELÉCTRICO DE LAS CRECIDAS DE LOS BIOS.
+El Genie Civil describe un avisador automático de la crecida de las corrientes, basado en la teoría de los tubos comunicantes.
+La corriente está puesta en comunicacion por medio de una conduccion de longitud y diámetros cualesquiera con una especie de depósito que contiene el avisador. A medida que el nivel de la corriente se eleva, el del depósito hace otro tanto y el avisador sigue el mismo movimiento, dando lugar, segun las alturas, á indicaciones eléctricas á larga distancia..
+El trasporte de la electricidad se hace por lineas telegráficas, y las señales que indican las variaciones de nivel están colocadas en los postes, casas de Ayuntamiento, etc., pudiendo ver así los interesados los movimientos de las aguas y dar la alarma por los medios generalmente usados en tales casos.
+El aparato es muy sencillo y puede funcionar en cualquier tiempo, cualquiera que sea la altura de las aguas del río ó del arroyo que ha de anunciar las variaciones de nivel.
+Este avisador, que acaban de ensayar los señores Jacquemart y Albertini, podrá prestar escelentes servicios, porque es muy importante poder prevenir rápidamente á las poblaciones el ascenso de la corriente y los peligros de inundaciones. 

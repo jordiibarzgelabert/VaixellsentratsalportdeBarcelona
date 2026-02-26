@@ -1,0 +1,20 @@
+antiguo, -Oro nuevo, -Plata, Albacete 0-30 d. Cordoba 0-30 d. Alcoy 0-20 d.
+Alicante 0-25 d. Cuenca 0-35 d.
+Coruña 0-25 d.
+Ferrol 0-25 d.
+Almeria 0-55 d.
+Avila 0-25 d.
+Badajoz 0-30 d.
+Carcelona 0-20 d. Granada 0-30 d. Cejar 0-35 d.
+Cilbao 0-20 d.
+Curgos 0-30 d.
+Caceres 0-30 d.
+Cadiz 0-20 d.
+Cartagena 0-20 d. Leon 0-30 d. Castellon 0-30 d. Lérida 0-20 d. Cindad Real 035 d. Linares 0-25 d.
+Gerona 0-25 d.
+Gijon 0-25 d. L.
+Guadalajara 0-35 d.
+Haro 0-25 d.
+Huelva 0-25 d.
+Huesca 0-30 d.
+Jaen 0-30 d. 

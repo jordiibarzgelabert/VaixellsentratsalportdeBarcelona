@@ -1,0 +1,5 @@
+Orense, 634.500, y Oviedo, 577,500.
+Palencia, 73.000; Palma, 1.222.500; Pamplona, 737.500, y Pontevendra, 129.500. Reus, 47.500.
+Salamanca, 562,000; San Sebastian, 3.810.000; Santander, 2.897.000; Santiago, 816.500; Segovia, 153.000; Sevilla, 1.660.000, y Soria, 359.000.
+Tarragona, 52.500; Teruel, 378.500, y Toledo, 565.000.
+Valencia, 3.127.500; Valladolid, 2.094.500; Vigo, 400.000, y Vitoria, 1.762.000, Zamora, 561.000, y Zaragoza, 2.534.000, 

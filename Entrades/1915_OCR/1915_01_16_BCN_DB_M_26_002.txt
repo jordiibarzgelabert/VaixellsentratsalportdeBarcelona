@@ -1,0 +1,4 @@
+EMBARCACIONES LLEGADAS A ESTE PUERTO EL DIA 15.
+Mercantes españolas.
+De Alicante en 20 horas, vapor Francolí, de 589 toneladas, capitan Artadi, con cargo general y 115 pasajeros.
+De Palma en 20 horas, vapor Bellver, de 788 toneladas, capitan Amengual, con cargo general y if pasajeros. 

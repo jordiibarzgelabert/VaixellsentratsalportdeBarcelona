@@ -1,0 +1,8 @@
+EMBARCACIONES LLEGADAS Á ESTE PUERTO EN EL DIA 13.
+De Palma en 13 dias, bergantin María Luisa, de 51 toneladas, capitan Espases, con efectos.
+Mercantes españolas.
+De Avilés en 7 dias, vapor Ubarte, de 2.325 toneladas, capitan Andurria, con 5.534 toneladas carb a la orden.
+De Ibiza en 18 horas, vapor correo Isleño, de 314 toneladas, capitan Rigo, con cargo general y 5 pasajeros.
+De Palma en 12 horas, vapor Bellver, de 788 toneladas, capitan Amengual, con cargo general y 32 pasajeros.
+De Malaga y escalas en 8 dias, vapor Denia, de 1.059 toneladas, capitan Espiau. con cargo general, De Andraitx en 8 dias, pailebot San Francisco, de 46 toneladas, capitan Moraguez, con efectos. De Valencia en 12 horas, vapor Jorge Juan, de 709 toneladas, capitan Fabregués, con cargo general De Rosas y escalas en 24 horas, vapor Nuevo Ampurdanés, de 172 toneladas, capitan Gelpi, con car y 339 pasajeros.
+go-general. 

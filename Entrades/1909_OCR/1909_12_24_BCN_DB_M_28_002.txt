@@ -1,0 +1,9 @@
+VELARDE, admitiendo carga y pasajeros y hajo el siguiente itinerario:
+De Barcelona à Almería, los dias 3, 15 y 25 de cada mes.
+De Almeria à Melilla, los dias 8, 18 y 28 de cada mes
+De Melilla à Almeria, los dias 9, 19 y 29 de cada mes.
+De Almeria à Barcelona, los días 10, 20 y 30 de cada mes.
+Consignatarios:
+En Barcelona: Señores Domenech y Cert Hermanos. Paseo de Colon, 17.
+En Almeria: Señores Verdejo Mermanos.
+Ra Melilla: D. Samuel de Yh. Salama. 

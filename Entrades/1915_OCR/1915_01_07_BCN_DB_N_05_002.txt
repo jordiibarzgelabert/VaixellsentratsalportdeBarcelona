@@ -1,0 +1,14 @@
+De menos de 10 años.
+1000 nios: Varones, 7; hembras, 6.
+De 10 años a 20.
+De 20 30.
+10
+De 30 > 40.
+De 40 > 50.
+De 50 >>> 60.
+De 60 << 70.
+De 70 < 80.
+De 80 90.
+De 90 >> 100.
+67
+Total. 
