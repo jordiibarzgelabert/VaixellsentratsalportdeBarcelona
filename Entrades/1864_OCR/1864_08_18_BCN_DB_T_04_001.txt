@@ -1,0 +1,35 @@
+Jd.
+Cajas.
+Tercios.
+Barricas.
+30 30 14 14 ས  ཿ 175 336 -C. M. I.-José Maseras-Antonio Rodriguez.
+2 1 1
+Baias
+Bultos.
+9
+B 9 9 25 25 1 1
+D 1 ཨ 
+Bultos.
+1 97 146 46 46 ཤྩ 
+ע 364 17 17 4 ཀཱ 
+>
+80 2300 ཤྲཱ 
+Cajas.
+Barriles.
+8
+A 6
+Id.
+1 
+25
+D
+Sacos 364 347 91 14 83 2 
+Unidades.
+Cajas.
+20 g ཉ 2 2
+Cajas.
+པཿ 6 6 6
+D 2 186 186 ཉནྡྷ 1 186
+Id.
+1 1
+Cajas.
+161 25 311 

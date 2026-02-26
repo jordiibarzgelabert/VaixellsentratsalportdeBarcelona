@@ -1,0 +1,13 @@
+do Embarcaciones entradas en este puerto desde el mediodía al anochecer de ayer. 3000 D soub tas 
+Mercantes españolas.
+int $117
+De Cullera en 4 d., laud Angeles, de 18 t., p. Tomás Ferrer, con 200 ar. lemates. geno 201 De Nueva-Orleans en 59 d., fragata Prosperidad, de 402 t., c. don Joaquin Mora, con 200 balas algodon á los señores Canela y compañía. 200 id. à don J. Manegal, 50 id. al señor Catarineu y compañia, 355 id. á don J. Puig y 2112 duelas á los señores Maresch hermanos.
+Además 11 buques de la costa de este Principado, con 800 pipas vino para trasbordar y 200 quintales carbon.
+Id. estranjera.
+De Constantinopla en 34 d., polacra rusa Stefano Mimbeli, de 331 t., c. Marincowich, con 2200 kil. Irigo á la órden:
+Despachadas el 14.
+Vapor Numancia, c. Font, para Sevilla, con efectos.-Fragata 'Paquita, c. Tapias, para la Habana, con id.-Corbeta alemana Baltic, c. Hervick, para Cartagena, en lastre.-Id. inglesa Clarendon, capi-3 tan Cram, para Alicante, en id.-Laud Trinidad, p. Fibla, para Benicarló, en id.-Corbeta Clotilde, capitan Ferrer, para B. Aires, con efectos.-Vapor Non Plus Ultra, c. Llompart, para Bilbao, con id.-Id. inglés Charles Howard, c. Newton, para Londres, en lastre.-Polacra-goleta Jóven Anita, c. Rodriguez, para Garrucha, eon lefectos.-Mistico-goleta Valiente, c. Martinez, para Sevilla, con id.-Bergantin-goleta Marcial, c. Tramoya, para [Puerto-Rico, Icon id.-Bergantin aleman Konigin Elisabeth, c. Riesk, para Torrevieja, on lastre.
+Además 6 buques para la costa de este Principado, con efectos y lastre.
+SALIDA: Vapor Menorca. c. Victori, para Mahon.
+BUQUES QUE ABREN REGISTRO: Queche Cinco Amigos, para Almería.-Bergantin goleta Frasquito.of para  la Habana. -Vapor Genil, para Sevilla,
+800 

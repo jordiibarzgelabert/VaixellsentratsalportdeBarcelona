@@ -1,0 +1,6 @@
+13000 1010 80 VAPORES-CORREOS DE CANARIAS.  01 
+soolid 20
+Salidas fijas los dias 3 y 13 de cada mes.
+DEL PUERTO DE CADIZ.
+oint le b
+Para carga y pasajeros dirigirse á los Sres. D. Ripol y compañia, plaza de las Ollas, n. 1.0 

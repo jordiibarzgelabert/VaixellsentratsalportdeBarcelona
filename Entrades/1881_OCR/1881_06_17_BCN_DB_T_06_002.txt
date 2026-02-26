@@ -1,0 +1,27 @@
+Dependencias
+Localidades en que se verificaran para presentar en que tendran lugar las subastas.
+En la id. v Comisaria de Guerra de Gerona. Hostalrich..
+Fechas
+Deposito proposiciones.
+En la id. id. id. de Figueras. Puigcerdà..
+Tas subastas.
+que se contratan.
+Mes. Dia. Hora. Pesetas.
+En la rd. id. id. de Tortosa. Tortosa..
+20 1017 200
+Badalona....
+En la Intendencia Militar..
+20 10 250
+Cardona..
+20 1112 2700
+Manresa..
+20 11 500
+Villafranca.
+Villanueva.
+20 12 101/2 350 4200
+Julio...
+21 10 200 21 1112 1300
+En la 16. id. id. de Tarragona. Reus.
+En la id. id. id.
+de Vich. Vich...
+21 11 4700 12 5500 

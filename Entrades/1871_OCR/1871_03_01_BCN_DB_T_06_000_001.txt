@@ -1,0 +1,22 @@
+res a
+Albacete 114 d.
+Barcelona 314 b.
+Córdoba
+Cádiz 1 b.
+Avila d.
+Bilbao 118 b.
+Alicante 318 b
+Almería 114 b.
+Badajoz par d.
+Burgos 114 b.
+Cáceres par d.
+Coruña p
+Cuenca
+Ciudad Real par d. Logroño
+Jaen 114
+Leon par
+Lérida pa
+Gerona 1
+Granada
+Guadalaj
+Huesca 1 
